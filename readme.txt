@@ -1,4 +1,4 @@
-     git clone htttps://... nameProjekt:
+﻿     git clone htttps://... nameProjekt:
     - клонирование проекта в папку  NameProjekt 
 
     добовление файлов коммит:
@@ -17,3 +17,4 @@
     git config --global user.email "ваш емайл"
     git config --global user.name "ваше имя"
     
+   домашняя работа 
